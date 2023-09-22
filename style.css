@@ -1,0 +1,24 @@
+html { 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    margin: 0rem;
+    overflow-x: hidden;
+}
+#wanted{
+    height: 80dvh;
+}
+#title{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+#img{
+    max-width: 100vw;
+    max-height: 100vh;
+}
